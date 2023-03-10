@@ -1,0 +1,8 @@
+{
+  "name": "app-store-front",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "4f87d4c4"
+}
